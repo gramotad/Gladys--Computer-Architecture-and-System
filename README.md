@@ -1,4 +1,6 @@
-Gladys-Computer-Architecture & System
+Gladys Ramotadima
+Computer-Architecture & System
+Assesment 2 Project
 
  
 Introduction
