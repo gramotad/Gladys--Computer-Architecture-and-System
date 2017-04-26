@@ -1,4 +1,4 @@
-Gladys Ramotadima
+
 Computer-Architecture & System
 Assesment 2 Project
 
