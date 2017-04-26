@@ -1,4 +1,4 @@
-# Gladys--Computer-Architecture-and-System
+Gladys-Computer-Architecture & System
 
  
 Introduction
@@ -50,8 +50,8 @@ According to the virtualization report a webserver is a software that listens fo
 Apache is described as a webserver program that comes with and is configured on most of the systems. According to Laurie B, & Laurie P, (2000) it is a program that runs under suitable multitasking operating, stating examples as Unix and windows 95/98/2000/Me and NT.
 
 Outlining the steps involved in setting up configuration of Apache webserver
-
 Continuation of the project process continues from the previous installation of configuration and development  virtual machine which was installation of Ubuntu.
+
 	Step 1 Previous  password used and sudo apt-get install apache2 apache2-utils is installed
 -	The process did not start straight away as I encountered problems I have to restart again
 -	Settings changed to Apache 2 webserver started up at system boot 2, command below is installed sudo system enable apache 2
@@ -66,18 +66,22 @@ Continuation of the project process continues from the previous installation of 
 -	New password created for MYSQL root then reloaded
 
 	Step 4 PHP installed and modules
--	It was stated that this is an open server side scripting language mainly used for web development, which allows web developers to create dynamic interactive websites
--	Command sudo apt-get install ph7.0 ph7.mysql libapache2-mod-php7.0 php7.0 php7.0-cgi php7.0-gd installed
+-It was stated that this is an open server side scripting language mainly used for web development, which allows web developers to create dynamic interactive websites
+- Command sudo apt-get install ph7.0 ph7.mysql libapache2-mod-php7.0 php7.0 php7.0-cgi php7.0-gd installed
 - After running the system PHP was tested to check if it was working
 - By creating info-php file in /var/www/html director
--	Then the file was created
+- Then the file was created
 
 Reflections on the virtualisation and website
 
 I learned that creating a website was not that easy is but it was fun and takes some time. I realised that having the knowledge and IT skills can help me in the future to create my own website and thus help me promote my business or services. I can choose to be a web programmer or designer. To know that there are specific languages in a computer was a new thing to me and was quite interesting. I made some errors such as typing and wrong commands and realised that the programme cannot allow me to do what I have to do if there were errors. So I have to go back and correct that.
+
 Reflection on virtualisation, I realise that this is an important issue in IT, especially when it comes to power consumption. I attained the skills that it provides high availability for critical operations, streamlines and application deployment. Burger (1987) stated that IT specialists are always on the lookout for the latest technologies that allow businesses to run with fewer resource’s while providing the infrastructure to meet todays future customer’s needs. 
+
 According to the virtualisation report prepared by Bakersfield College (1987) virtualisation is immediately compelling when applied to server consolidation or server containment strategies, which they stated has shown good advantages like that of customers discovering that running virtual infrastrure can help improve services levels and availability. I found this to be a good advantage and beneficial too. Giving example that because virtual machine is encapsulated its configuration and state information can easily be captured and migrated. Virtual disks are literally files that can be backed up and restored quickly for disastrous recovery purposes. Therefore virtualisation is crucial to the future of information technology.
+
 Conclusion
+
 After learning about the two systems I realised that computers and IT has become so essential in our daily lives. I now cannot imagine life without a computer as they are used in businesses, homes and offices. It shows that people are focused on the future of computers. 
 
 REFERENCES
